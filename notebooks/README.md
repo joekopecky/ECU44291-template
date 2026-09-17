@@ -1,0 +1,1 @@
+Notebooks go here. `lecture01_solow_blank.ipynb` is the Week 1 lecture notebook, ready to open. Later weeks' notebooks are in the public lectures repository, `github.com/joekopecky/ECU44291-lectures`; copy the ones you want into this folder. `03_calibration.ipynb` (M3, Week 8 onwards) is the first one the project itself needs; the starter data notebook arrives with it.
